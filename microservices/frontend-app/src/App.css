@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  overflow-x: hidden;
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+
+.landing-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.section {
+  padding: 40px 0;
+} 
